@@ -1,0 +1,16 @@
+D:\вижуал\Lab work 2.1\obj\Debug\net6.0\Lab work 2.1.csproj.AssemblyReference.cache
+D:\вижуал\Lab work 2.1\obj\Debug\net6.0\Lab work 2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\вижуал\Lab work 2.1\obj\Debug\net6.0\Lab work 2.1.AssemblyInfoInputs.cache
+D:\вижуал\Lab work 2.1\obj\Debug\net6.0\Lab work 2.1.AssemblyInfo.cs
+D:\вижуал\Lab work 2.1\obj\Debug\net6.0\Lab work 2.1.ImplicitNamespaceImports.cs
+D:\вижуал\Lab work 2.1\obj\Debug\net6.0\Lab work 2.1.csproj.CoreCompileInputs.cache
+D:\вижуал\Lab work 2.1\bin\Debug\net6.0\Lab work 2.1.exe
+D:\вижуал\Lab work 2.1\bin\Debug\net6.0\Lab work 2.1.deps.json
+D:\вижуал\Lab work 2.1\bin\Debug\net6.0\Lab work 2.1.runtimeconfig.json
+D:\вижуал\Lab work 2.1\bin\Debug\net6.0\Lab work 2.1.dll
+D:\вижуал\Lab work 2.1\bin\Debug\net6.0\ref\Lab work 2.1.dll
+D:\вижуал\Lab work 2.1\bin\Debug\net6.0\Lab work 2.1.pdb
+D:\вижуал\Lab work 2.1\obj\Debug\net6.0\Lab work 2.1.dll
+D:\вижуал\Lab work 2.1\obj\Debug\net6.0\ref\Lab work 2.1.dll
+D:\вижуал\Lab work 2.1\obj\Debug\net6.0\Lab work 2.1.pdb
+D:\вижуал\Lab work 2.1\obj\Debug\net6.0\Lab work 2.1.genruntimeconfig.cache
