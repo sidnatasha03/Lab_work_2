@@ -19,10 +19,11 @@ namespace Shershnev.Lab2.Exercise1
 
             //Объявляем f
             double f;
-            f = 1 / 33 + Math.Log10(Math.Abs(x)) / 7.0 + 7.0 * x + Math.Min(x, 1 / 4) + Math.Cos(x / 3) + Math.Pow(x, x / 3) / 3;
+            f = 1 / 33.0 + Math.Log(Math.Abs(x)) / 7.0 + 7.0 * x + Math.Min(x, 1 / 4) + Math.Cos(x / 3) + Math.Pow(x, x / 3) / 3;
 
             //Выводим информацию о значении y
             Console.WriteLine(f);
+            Console.ReadKey();
         }
 
     }

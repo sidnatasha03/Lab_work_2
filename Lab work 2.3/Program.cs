@@ -27,7 +27,7 @@ namespace Shershnev.Lab2.Exercise1
             double z = Convert.ToDouble(zstr);
 
             double f;
-            f = 1 / 33 + Math.Log10(Math.Abs(y)) / 7 + z * 7 + Math.Min(x, 1 / 4);
+            f = 1 / 33.0 + Math.Log(Math.Abs(y)) / 7.0 + z * 7.0 + Math.Min(x, 1 / 4.0);
 
             // Выводим информацию о значение f.
             Console.WriteLine(f);
